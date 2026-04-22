@@ -1,3 +1,4 @@
+[![GitGarden](https://gitgarden.marshallku.dev/?user_name=minhee-seo&year=2025)](https://github.com/marshallku/gitgarden)
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Welcome!%20minhee's%20Github&animation=&fontColor=ffffff&fontSize=40" />
     </div>
