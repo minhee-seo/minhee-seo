@@ -1,10 +1,12 @@
 [![GitGarden](https://gitgarden.marshallku.dev/?user_name=minhee-seo&year=2025)](https://github.com/marshallku/gitgarden)
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Welcome!%20minhee's%20Github&animation=&fontColor=ffffff&fontSize=40" />
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 반갑습니다! 계획적인 프로젝트를 설계하는  Fullstack web developer 서민희 입니다 </h2>  
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+<div align="left">
+<summary><h2>✨반갑습니다! 계획적인 프로젝트를 설계하는 Web developer 서민희 입니다</h2></summary>
+
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; padding-bottom: 5px;">
+    🛠️ Tech Stacks
+  </h2>
     <div style="margin: ; text-align: left;" "text-align: left;">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
