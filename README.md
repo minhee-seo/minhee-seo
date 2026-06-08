@@ -43,7 +43,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; margin-top: 20px;">📝 Latest Blog Posts</h2>
 <div align="left" style="margin-top: 10px;">
   <a href="https://velog.io/@alslalsl" target="_blank">
-    <img src="https://velog-readme-stats.vercel.app/api?name=alslalsl&theme=light" alt="Minhee's Velog Light" JSON="true" width="50%" max-width="600px" />
+    <img src="https://velog-readme-stats.vercel.app/api?name=alslalsl&theme=light" alt="Minhee's Velog Light" JSON="true" width="60%" max-width="600px" />
   </a>
   <br />
 
